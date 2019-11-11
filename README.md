@@ -21,7 +21,7 @@
 
 | Github Issue | 微信(小助手) |
 | ------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
-| [ddnlink/ddn/issues](https://github.com/ddnlink/ddn/issues) | ![](./doc/images/hashbase.jpg) | 
+| [ddnlink/ddn/issues](https://github.com/ddnlink/ddn/issues) | ![](./styles//images/hashbase.jpg) | 
 
 > PS：请备注 `DDN开发`
 
@@ -31,7 +31,7 @@
 
 | DDN基金会钱包转账地址 | DDN手机钱包扫码转账 |
 | ------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
-| DLjrrVwnmMXstcAYVjcrpwyYb3kY1ehABU | ![](./doc/images/foundation.png) | 
+| DLjrrVwnmMXstcAYVjcrpwyYb3kY1ehABU | ![](./styles/images/foundation.png) | 
 
 ## 贡献者（Contributors）
 
