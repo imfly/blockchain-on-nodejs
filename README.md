@@ -35,7 +35,7 @@
 
 ## 贡献者（Contributors）
 
-@imfly @Tailor @火鼎 @珍惜 @一 @Mojie @cyio @zbinlin
+@imfly
 
 ## 协议
 
