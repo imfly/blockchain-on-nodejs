@@ -20,9 +20,9 @@
 
 ## 社区
 
-| Github Issue | 微信(小助手) |
+| Github Issue | DATM |
 | ------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
-| [ddnlink/ddn/issues](https://github.com/ddnlink/ddn/issues) | ![](./styles//images/hashbase.jpg) | 
+| [ddnlink/ddn/issues](https://github.com/ddnlink/ddn/issues) | ![](./styles//images/datm-ddn.jpeg) | 
 
 > PS：请备注 `DDN开发`
 
