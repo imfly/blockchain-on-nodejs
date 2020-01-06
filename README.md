@@ -22,7 +22,7 @@
 
 | Github Issue | DATM |
 | ------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
-| [ddnlink/ddn/issues](https://github.com/ddnlink/ddn/issues) | <img src="./styles//images/datm-ddn.jpeg" alt="..." width="60px"> | 
+| [ddnlink/ddn/issues](https://github.com/ddnlink/ddn/issues) | <img src="./styles//images/datm-ddn.jpeg" alt="..." width="100px"> | 
 
 > PS：DATM 是基于DDN区块链的 分布式任务管理工具，大家可以在上面领取任务、讨论问题，任务完成，系统通过`智能合约`支付给你DDN
 
